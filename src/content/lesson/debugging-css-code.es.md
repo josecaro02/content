@@ -1,5 +1,5 @@
 ---
-title: "Depurando código CSS"
+title: "Depurando código CSS durante la clase de GIT PT-73"
 subtitle: "Depurando código CSS más rápido y eficiente. Ahorra más del 50% de tu tiempo de depuración al programar CSS."
 tags: ["debugging", "web development", "html/css"]
 
